@@ -1,0 +1,5 @@
+Maven is a project building tool.
+*To run maven test we always have to put Test after class name(ex:MogaTest)
+*We can run maven Test from command line(command-mvn test)
+*For maven project u have to add jar file from porm.xml file(click defendencies then click add then search jar file)
+*

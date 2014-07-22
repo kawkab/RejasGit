@@ -1,0 +1,10 @@
+1.what are the four faundamental concept in java?
+2.what is difference between final,finally and finalize?
+3.what is difference between overloadind and overriding?
+4.what is difference between interface and abstract class?
+5.Did you ever handle any exception in java?
+6.what is difference between String and String Buffer?
+7.How to access a private variable?
+8.Why you use an array?  
+9.How to get a random number in java?
+10.How to open firefox browser using selenium Rc?
